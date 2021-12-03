@@ -1,13 +1,63 @@
 ---
 title: "Jennifer Head"
-output: html_document
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
+    includes:
+      after_body: footer.html
+    
 ---
-## Hi {.tabset}
+## Hi! I'm Jennifer {.tabset .tabset-pills}
 
-### About Me
 
-My name is jennifer
+### About Me/Contact
 
-### Current Projects
 
-Testing to see if my changes are working
+
+I'm a PhD Candidate in Epidemiology at the University of California Berkeley. I use mathematical and statistical models to understand the impact of public health policies, climate, and individual behaviors on infectious disease dynamics. I particularly focus on emerging, environmentally-mediated, or zoonotic diseases. My work utilizes both large surveillance datasets, as well as primary data collected from household questionnaires, anthrompometric measurements, and serosurveys. I think of myself first as an epidemiologist, but my work and methods cross multiple disciplines, including data science, econometrics, environmental health, and ecology.
+
+```{r, echo=FALSE, out.width="30%", fig.cap="My dog.", fig.align = 'center'}
+knitr::include_graphics("DSC_9313.jpg")
+```
+
+
+***
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "blue">
+
+Want to collaborate? Find me here:
+
+Email: jennifer_head@berkeley.edu
+
+Twitter: @JenniferR_Head
+
+</div>
+
+
+### Current research topics
+
+1. 
+
+2. 
+
+3. 
+
+4.
+
+### In the news
+
+[School and COVID-19 modeling](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674)
+
+[Valley Fever](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/)
+
+### Publications
+
+
+
+
+
+
