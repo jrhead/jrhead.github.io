@@ -20,7 +20,7 @@ I'm a PhD Candidate in Epidemiology at the University of California Berkeley. I 
 ### Current research
 
 ***
-**Valley Fever**
+**Valley fever**
 ```{r, echo=FALSE, out.width="30%", fig.align = 'left'}
 knitr::include_graphics("VFspores.png")
 ``` 
