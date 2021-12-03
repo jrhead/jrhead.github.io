@@ -1,0 +1,12 @@
+name: "Jennifer Head"
+output_dir: "root"
+navbar:
+  title: "Jennifer Head"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "About"
+   href: about-me.html
+output:
+  html_document:
+ theme: cosmo
