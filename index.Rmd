@@ -11,7 +11,7 @@ output:
 ## Hi! I'm Jennifer {.tabset .tabset-pills}
 
 
-### About Me/Contact
+### About Me
 
 
 
@@ -27,7 +27,7 @@ knitr::include_graphics("VFspores.png")
 
 Coccidioidomycosis, or Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestwern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. The Remais and Taylor lab, are recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. Using a G-computation ensemble modeling approach, I am examining the role that meterological factors, like drought, play in the geographic expansion of the pathogen. I am also examining the role of wildfires on transmission using a synthetic controls approach.
 
-Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. I have an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947), which examines the contribution of rodent hosts and burrows to habitats for *Coccidioides*. We are conducting longitudinal soil surveillance within burrows and surface soils the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. 
+Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. I have an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947), which examines the contribution of rodent hosts and burrows to habitats for *Coccidioides*. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. 
 
 ***
 **COVID-19 transmission in schools**
