@@ -52,11 +52,15 @@ I am a survey consultant for various NGO's, including Save the Children and CARE
 ### News
 
 ***
+[Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022
+
+<br>
+
 [A deadly fungal disease on the rise in the West has experts worried](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/) - *Grist*, Sept. 15, 2021
 
 <br>
 
-Our paper, "[School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies"](https://doi.org/10.1098/rsif.2020.0970), is featured by in an [article](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674) by  *The Conversation*, August 25, 2020, and *The Academic Times*, April 13, 2021
+Our paper, "[School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies"](https://doi.org/10.1098/rsif.2020.0970), is featured in an [article](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674) by  *The Conversation*, August 25, 2020, and *The Academic Times*, April 13, 2021
 
 
 ### Publications
@@ -64,16 +68,26 @@ Our paper, "[School closures reduced social mixing of children during COVID-19 w
 ***
 **Pre-prints:**
 
+Head JR,Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. [Influence of meteorological factors and drought on coccidioidomycosis incidence in California, 2000–2020](https://www.medrxiv.org/content/10.1101/2022.02.03.22270412v1) *medRxiv.*
+
 Head JR, Chanthavilay P, Catton H, Vongsitthi A, Khamphouxay K, Simphaly N. [Changes in household food security, access to health services, and income in northern Lao PDR during the COVID-19 pandemic.](https://www.medrxiv.org/content/10.1101/2021.07.27.21261221v1) *medRxiv.* 
 
 
 **Publications:**
 
+Andrejko KL, Head JR, Lewnard JA, Remais JV. (2022). Longitudinal social-contact patterns among school-aged children during the COVID-19 pandemic: The Bay Area Contacts among Kids (BACK) study. **BMC Infectious Diseases**. https://doi.org/10.1186/s12879-022-07218-4 
+
+Weaver, AK, Head, JR, Gould, CF, Carlton, EJ, Remais, JV. (2022). Environmental factors influencing COVID-19 incidence and severity. **Annual Reviews in Public Health**. https://doi.org/10.1146/annurev-publhealth-052120-101420
+
+Yale G, Lopes M, Isloor S, Head JR, Mazeri S, Gamble L, Gongal G, Gibson AD. (2022). Review of oral rabies vaccination of dogs and its application in India. **Viruses**. https://doi.org/10.3390/v14010155 
+
+Bryant-Genevier J, Bumburidi Y, Kazazian L, Seffren V, Head J, Berezovskiy D, Zhakipbayeva B, Salyer S, Knust B, Klena J, Chiang CF, Mirzabekova G, Rakhimov K, Koekeev J, Kartabayev K, Mamadaliyev S, Guerra M, Blanton C, Shoemaker T, Singer D, Moffett D. (2022). Prevalence of Crimean-Congo hemorrhagic fever virus among livestock and ticks in Zhambyl region, Kazakhstan, 2017. **American Journal of Tropical Medicine and Hygiene**. https://doi.org/10.4269/ajtmh.21-1092 
+
 Head JR, Andrejko KL, Remais JV. (2021). Model-based assessment of SARS-CoV-2 Delta variant transmission dynamics within partially vaccinated K-12 school populations. *The Lancet Regional Health-Americas*. https://doi.org/10.1016/j.lana.2021.100133
 
 Head JR, Andrejko KL, Cheng Q, Collender PA, Phillips S, Boser A, et al. (2021). School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies. *Journal of the Royal Society Interface.* https://doi.org/10.1098/rsif.2020.0970
 
-Heaney AK, Head JR, Broen K, Click K, Taylor J, Balmes JR, et al. (2021). Coccidioidomycosis and COVID-19 Co-Infection, United States, 2020. *Emerging infectious diseases* https://doi.org/10.3201/eid2705.204661.
+Heaney AK, Head JR, Broen K, Click K, Taylor J, Balmes JR, et al. (2021). Coccidioidomycosis and COVID-19 Co-Infection, United States, 2020. *Emerging infectious diseases*. https://doi.org/10.3201/eid2705.204661
 
 Bumburidi Y, Utepbergenova G, Yerezhepov B, Berdiyarova N, Kulzhanova K, Head J, et al. (2021). Etiology of acute meningitis and encephalitis from hospital-based surveillance in South Kazakhstan oblast, February 2017—January 2018. *PloS one.* https://doi.org/10.1371/journal.pone.0251494
 
