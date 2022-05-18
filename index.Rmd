@@ -1,5 +1,5 @@
 ---
-title: "Jennifer Head"
+title: "The Head-Zhutenegger Lab"
 output:
   html_document:
     theme: yeti
@@ -8,16 +8,28 @@ output:
       after_body: footer.html
     
 ---
-## Hi! I'm Jennifer {.tabset .tabset-pills}
+## University of California Berkeley | Environmental Health Sciences {.tabset .tabset-pills}
 
 
-### About Me
+### About
 
+Welcome to the lab of Dr. Head-Zhutenegger, Assistant Researcher at the University of California Berkeley, Division of Environmental Health Sciences. Our group applies mathematical and statistical models to understand the impact of public health policies, climate, and individual behaviors on infectious disease dynamics. We particularly focus on emerging, environmentally-mediated, or zoonotic diseases. Our work utilizes both large surveillance datasets, as well as primary data collected from household questionnaires, anthrompometric measurements, and serosurveys. Our work and methods cross multiple disciplines, including epidemiology, data science, econometrics, environmental health, and ecology. We collaborate with the California Department of Public Health to help convey findings into actionable public health outcomes.
 
+<br>
 
-I'm a PhD Candidate in Epidemiology at the University of California Berkeley. I use mathematical and statistical models to understand the impact of public health policies, climate, and individual behaviors on infectious disease dynamics. I particularly focus on emerging, environmentally-mediated, or zoonotic diseases. My work utilizes both large surveillance datasets, as well as primary data collected from household questionnaires, anthrompometric measurements, and serosurveys. I think of myself first as an epidemiologist, but my work and methods cross multiple disciplines, including data science, econometrics, environmental health, and ecology. I collaborate with the California Department of Public Health to help convey findings into actionable public health outcomes.
+<br>
 
-### Current research
+```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
+knitr::include_graphics("gif//lab-imgs.gif")
+``` 
+
+<br>
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
+knitr::include_graphics("UCBlogo.png")
+``` 
+
+### Research
 
 ***
 **Valley fever**
@@ -25,9 +37,9 @@ I'm a PhD Candidate in Epidemiology at the University of California Berkeley. I 
 knitr::include_graphics("VFspores.png")
 ``` 
 
-Coccidioidomycosis, or Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestwern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. The Remais and Taylor lab, are recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. Using a G-computation ensemble modeling approach, I am examining the role that meterological factors, like drought, play in the geographic expansion of the pathogen. I am also examining the role of wildfires on transmission using a synthetic controls approach.
+Coccidioidomycosis, or Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestwern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. We work with the Remais and Taylor lab, recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. We are examining the role of environmental conditions -- like drought and wildfires --  geographic expansion of the pathogen.
 
-Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. I have an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947), which examines the contribution of rodent hosts and burrows to habitats for *Coccidioides*. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. 
+Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. Dr. Head is a receipient of an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947), which examines the contribution of rodent hosts and burrows to habitats for *Coccidioides*. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. 
 
 ***
 **COVID-19 transmission in schools**
@@ -36,7 +48,7 @@ Rodents may play an important role in the lifecycle of the *Coccidioides* fungus
 knitr::include_graphics("noun-covid.png")
 ``` 
 
-I use mathematical models to understand the influence of public health policies in schools on transmission attributable to in-person schooling. Some of my modeling work can be seen [here](https://doi.org/10.1016/j.lana.2021.100133) and [here](https://doi.org/10.1098/rsif.2020.0970). I am also funded by a MIDAS Urgent Grant to conduct longitudinal surveys to measure social contacts among school children and their adult family members.
+We are working with the California Department of Public Health to understand the influence of public health policies in schools on transmission attributable to in-person schooling. We use mathematical models and econometric designs to understand transmission dynamics. Some published modeling work can be seen [here](https://doi.org/10.1016/j.lana.2021.100133) and [here](https://doi.org/10.1098/rsif.2020.0970). Dr. Head is also funded by a MIDAS Urgent Grant to conduct longitudinal surveys to measure social contacts among school children and their adult family members.
 
 ***
 **Maternal and child nutrition**
@@ -45,9 +57,17 @@ I use mathematical models to understand the influence of public health policies 
 knitr::include_graphics("noun-growth.png")
 ``` 
 
-I am a survey consultant for various NGO's, including Save the Children and CARE. I conduct and analyse household anthropometric surveys to evaluate programs that aim to improve nutritional and growth outcomes among women and children under five years.
+Dr. Head is a survey consultant for various NGO's, including Save the Children and CARE. She works with local partners to conduct and analyse household anthropometric surveys to evaluate programs that aim to improve nutritional and growth outcomes among women and children under five years.
 
 ***
+
+<br>
+<br>
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
+knitr::include_graphics("UCBlogo.png")
+``` 
+
 
 ### News
 
@@ -62,8 +82,19 @@ I am a survey consultant for various NGO's, including Save the Children and CARE
 
 Our paper, "[School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies"](https://doi.org/10.1098/rsif.2020.0970), is featured in an [article](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674) by  *The Conversation*, August 25, 2020, and *The Academic Times*, April 13, 2021
 
+<br>
+<br>
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
+knitr::include_graphics("UCBlogo.png")
+``` 
+
 
 ### Publications
+
+***
+
+See here for a list of publications in [Google Scholar](https://scholar.google.com/citations?user=PzF3BqQAAAAJ&hl=en&oi=ao)
 
 ***
 **Pre-prints:**
@@ -115,6 +146,13 @@ Head JR, Chang H, Li Q, Hoover CM, Wilke T, Clewing C, et al. (2016). Genetic ev
 
 Head JR, Getachew B, Gabrehiwot M. (2014). Harnessing local technology: Manufacturing small scale mixers for the fortification of edible oils and wheat flours in northern Ethiopia. *IEEE Global Humanitarian Technology Conference (GHTC 2014)* https://doi.org/10.1109/GHTC.2014.6970283
 
+<br>
+<br>
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
+knitr::include_graphics("UCBlogo.png")
+``` 
+
 ### Contact
 
 <style>
@@ -137,3 +175,9 @@ Twitter: @JenniferR_Head
 knitr::include_graphics("D8H_6063.jpg")
 ```
 
+<br>
+<br>
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
+knitr::include_graphics("UCBlogo.png")
+``` 
