@@ -13,5 +13,5 @@ img_animated <- image_animate(img_joined,
                               fps = 0.5)
 
 ## save to disk
-image_write(image = image_scale(img_animated, "2785x1855"),
+image_write(image = image_scale(img_animated, "1000x667"),
             path = "gif//lab-imgs.gif")
