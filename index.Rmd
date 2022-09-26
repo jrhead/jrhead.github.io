@@ -34,7 +34,7 @@ knitr::include_graphics("UCBlogo.png")
 ***
 **Valley fever**
 ```{r, echo=FALSE, out.width="30%", fig.align = 'left'}
-knitr::include_graphics("VFspores.png")
+knitr::include_graphics("BioR_VFspores.png")
 ``` 
 
 Coccidioidomycosis, or Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestwern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. We work with the Remais and Taylor lab, recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. We are examining the role of environmental conditions -- like drought and wildfires --  geographic expansion of the pathogen.
@@ -45,7 +45,7 @@ Rodents may play an important role in the lifecycle of the *Coccidioides* fungus
 **COVID-19 transmission in schools**
 
 ```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
-knitr::include_graphics("noun-covid.png")
+knitr::include_graphics("BioR_COVID.png")
 ``` 
 
 We are working with the California Department of Public Health to understand the influence of public health policies in schools on transmission attributable to in-person schooling. We use mathematical models and econometric designs to understand transmission dynamics. Some published modeling work can be seen [here](https://doi.org/10.1016/j.lana.2021.100133) and [here](https://doi.org/10.1098/rsif.2020.0970). Dr. Head is also funded by a MIDAS Urgent Grant to conduct longitudinal surveys to measure social contacts among school children and their adult family members.
@@ -54,7 +54,7 @@ We are working with the California Department of Public Health to understand the
 **Maternal and child nutrition**
 
 ```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
-knitr::include_graphics("noun-growth.png")
+knitr::include_graphics("BioR_growth.png")
 ``` 
 
 Dr. Head is a survey consultant for various NGO's, including Save the Children and CARE. She works with local partners to conduct and analyse household anthropometric surveys to evaluate programs that aim to improve nutritional and growth outcomes among women and children under five years.
@@ -68,15 +68,28 @@ Dr. Head is a survey consultant for various NGO's, including Save the Children a
 knitr::include_graphics("UCBlogo.png")
 ``` 
 
+### People
+
+**Jennifer Head, PhD, MPH**: Lab PI
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
+knitr::include_graphics("PeoplePhotos//JenniferHead.png")
+``` 
+
+**Eve Lin**: Undergraduate researcher majoring in Computer Science
+
+```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
+knitr::include_graphics("PeoplePhotos//EveLin.png")
+``` 
 
 ### News
 
 ***
-[Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022
+We discuss how increasing drought may have contributed to the rise of coccidioidomycosis incidence in the Western US: [Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022
 
 <br>
 
-[A deadly fungal disease on the rise in the West has experts worried](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/) - *Grist*, Sept. 15, 2021
+We discuss evidence for the connection between wildfires and rising coccidioidomycosis incidence in California: [A deadly fungal disease on the rise in the West has experts worried](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/) - *Grist*, Sept. 15, 2021
 
 <br>
 
@@ -97,22 +110,26 @@ knitr::include_graphics("UCBlogo.png")
 See here for a list of publications in [Google Scholar](https://scholar.google.com/citations?user=PzF3BqQAAAAJ&hl=en&oi=ao)
 
 ***
-**Pre-prints:**
-
-Head JR,Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. [Influence of meteorological factors and drought on coccidioidomycosis incidence in California, 2000–2020.](https://www.medrxiv.org/content/10.1101/2022.02.03.22270412v1) *medRxiv.*
-
-Head JR, Chanthavilay P, Catton H, Vongsitthi A, Khamphouxay K, Simphaly N. [Changes in household food security, access to health services, and income in northern Lao PDR during the COVID-19 pandemic.](https://www.medrxiv.org/content/10.1101/2021.07.27.21261221v1) *medRxiv.* 
-
 
 **Publications:**
+
+Head JR,Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. (2022). Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study. *Lancet Planetary Health*. accepted.
+
+Head JR, Chanthavilay P, Catton H, Vongsitthi A, Khamphouxay K, Simphaly N. (2022). Changes in household food security, access to health services, and income in northern Lao PDR during the COVID-19 pandemic. *BMJ Open.* https://doi.org/10.1136/bmjopen-2021-055935
 
 Andrejko KL, Head JR, Lewnard JA, Remais JV. (2022). Longitudinal social-contact patterns among school-aged children during the COVID-19 pandemic: The Bay Area Contacts among Kids (BACK) study. *BMC Infectious Diseases*. https://doi.org/10.1186/s12879-022-07218-4 
 
 Weaver, AK, Head, JR, Gould, CF, Carlton, EJ, Remais, JV. (2022). Environmental factors influencing COVID-19 incidence and severity. *Annual Reviews in Public Health*. https://doi.org/10.1146/annurev-publhealth-052120-101420
 
+Ross YB, Hoque M, Blanton JD, Kennedy ED, Rana MS, Tahmina S, Bonaparte S,Head JR, Wallace RM. (2022). Rabies healthcare-seeking behaviors of urban and peri-urban residents: Results from a rabies knowledge, attitudes, and practices survey, Bangladesh, 2018. *PLoS Neglected Tropical Diseases*. https://doi.org/10.1371/journal.pntd.0010634
+
+Wagner R, Montoya L, Gao C, Head JR, Remais JV, Taylor JW. (2022). The air mycobiome is decoupled from the soil mycobiome in the California San Joaquin Valley. *Molecular Ecology*. https://doi.org/10.1111/mec.16640 
+
 Yale G, Lopes M, Isloor S, Head JR, Mazeri S, Gamble L, Gongal G, Gibson AD. (2022). Review of oral rabies vaccination of dogs and its application in India. *Viruses*. https://doi.org/10.3390/v14010155 
 
 Bryant-Genevier J, Bumburidi Y, Kazazian L, Seffren V, Head J, Berezovskiy D, Zhakipbayeva B, Salyer S, Knust B, Klena J, Chiang CF, Mirzabekova G, Rakhimov K, Koekeev J, Kartabayev K, Mamadaliyev S, Guerra M, Blanton C, Shoemaker T, Singer D, Moffett D. (2022). Prevalence of Crimean-Congo hemorrhagic fever virus among livestock and ticks in Zhambyl region, Kazakhstan, 2017. *American Journal of Tropical Medicine and Hygiene*. https://doi.org/10.4269/ajtmh.21-1092 
+
+Cheng Q, Collender PA, Heaney AK, McLoughlin A, Yang Y, Zhang Y, Head JR, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang HH, Waller LA, Zelner Jm Lewnard JA, Remais JV. (2022). Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. *PLoS Computational Biology*. accepted
 
 Head JR, Andrejko KL, Remais JV. (2021). Model-based assessment of SARS-CoV-2 Delta variant transmission dynamics within partially vaccinated K-12 school populations. *The Lancet Regional Health-Americas*. https://doi.org/10.1016/j.lana.2021.100133
 
