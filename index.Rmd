@@ -70,7 +70,7 @@ knitr::include_graphics("UCBlogo.png")
 
 ### People
 
-**Jennifer Head, PhD, MPH**: Lab PI
+**Jennifer Head-Zhutenegger, PhD, MPH**: Lab PI
 
 ```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
 knitr::include_graphics("PeoplePhotos//JenniferHead.png")
