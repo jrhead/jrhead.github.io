@@ -129,7 +129,7 @@ Yale G, Lopes M, Isloor S, Head JR, Mazeri S, Gamble L, Gongal G, Gibson AD. (20
 
 Bryant-Genevier J, Bumburidi Y, Kazazian L, Seffren V, Head J, Berezovskiy D, Zhakipbayeva B, Salyer S, Knust B, Klena J, Chiang CF, Mirzabekova G, Rakhimov K, Koekeev J, Kartabayev K, Mamadaliyev S, Guerra M, Blanton C, Shoemaker T, Singer D, Moffett D. (2022). Prevalence of Crimean-Congo hemorrhagic fever virus among livestock and ticks in Zhambyl region, Kazakhstan, 2017. *American Journal of Tropical Medicine and Hygiene*. https://doi.org/10.4269/ajtmh.21-1092 
 
-Cheng Q, Collender PA, Heaney AK, McLoughlin A, Yang Y, Zhang Y, Head JR, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang HH, Waller LA, Zelner Jm Lewnard JA, Remais JV. (2022). Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. *PLoS Computational Biology*. accepted
+Cheng Q, Collender PA, Heaney AK, McLoughlin A, Yang Y, Zhang Y, Head JR, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang HH, Waller LA, Zelner Jm Lewnard JA, Remais JV. (2022). Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. *PLoS Computational Biology*. https://doi.org/10.1371/journal.pcbi.1010575
 
 Head JR, Andrejko KL, Remais JV. (2021). Model-based assessment of SARS-CoV-2 Delta variant transmission dynamics within partially vaccinated K-12 school populations. *The Lancet Regional Health-Americas*. https://doi.org/10.1016/j.lana.2021.100133
 
