@@ -113,7 +113,11 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 
 **Publications:**
 
-Head JR,Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. (2022). Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study. *Lancet Planetary Health*. accepted.
+**2022**
+
+***
+
+Head JR, Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. (2022). Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study. *Lancet Planetary Health*. accepted.
 
 Head JR, Chanthavilay P, Catton H, Vongsitthi A, Khamphouxay K, Simphaly N. (2022). Changes in household food security, access to health services, and income in northern Lao PDR during the COVID-19 pandemic. *BMJ Open.* https://doi.org/10.1136/bmjopen-2021-055935
 
@@ -131,6 +135,11 @@ Bryant-Genevier J, Bumburidi Y, Kazazian L, Seffren V, Head J, Berezovskiy D, Zh
 
 Cheng Q, Collender PA, Heaney AK, McLoughlin A, Yang Y, Zhang Y, Head JR, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang HH, Waller LA, Zelner Jm Lewnard JA, Remais JV. (2022). Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. *PLoS Computational Biology*. https://doi.org/10.1371/journal.pcbi.1010575
 
+***
+**2021**
+
+***
+
 Head JR, Andrejko KL, Remais JV. (2021). Model-based assessment of SARS-CoV-2 Delta variant transmission dynamics within partially vaccinated K-12 school populations. *The Lancet Regional Health-Americas*. https://doi.org/10.1016/j.lana.2021.100133
 
 Head JR, Andrejko KL, Cheng Q, Collender PA, Phillips S, Boser A, et al. (2021). School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies. *Journal of the Royal Society Interface.* https://doi.org/10.1098/rsif.2020.0970
@@ -138,6 +147,11 @@ Head JR, Andrejko KL, Cheng Q, Collender PA, Phillips S, Boser A, et al. (2021).
 Heaney AK, Head JR, Broen K, Click K, Taylor J, Balmes JR, et al. (2021). Coccidioidomycosis and COVID-19 Co-Infection, United States, 2020. *Emerging infectious diseases*. https://doi.org/10.3201/eid2705.204661
 
 Bumburidi Y, Utepbergenova G, Yerezhepov B, Berdiyarova N, Kulzhanova K, Head J, et al. (2021). Etiology of acute meningitis and encephalitis from hospital-based surveillance in South Kazakhstan oblast, February 2017—January 2018. *PloS one.* https://doi.org/10.1371/journal.pone.0251494
+
+***
+**2020**
+
+***
 
 Head JR, Collender PA, Lewnard JA, Skaff NK, Li L, Cheng Q, et al. (2020). Early evidence of inactivated enterovirus 71 vaccine impact against hand, foot, and mouth disease in a major center of ongoing transmission in China, 2011–2018: a longitudinal surveillance study. *Clinical Infectious Diseases*. https://doi.org/10.1093/cid/ciz1188
 
@@ -151,11 +165,21 @@ Gribble MO, Head JR, Prabhakaran D, Kapoor D, Garg V, Mohan D, et al. (2020). Po
 
 Barbosa Costa G, Ludder F, Monroe B, Dilius P, Crowdis K, Blanton JD, et al. (2020). Barriers to attendance of canine rabies vaccination campaigns in Haiti, 2017. *Transboundary and emerging diseases*. https://doi.org/10.1111/tbed.13622
 
+***
+**2019**
+
+***
+
 Head JR, Vos A, Blanton J, Müller T, Chipman R, Pieracci EG, et al. (2019). Environmental distribution of certain modified live-virus vaccines with a high safety profile presents a low-risk, high-reward to control zoonotic diseases. *Scientific reports*. https://doi.org/10.1038/s41598-019-42714-9
 
 Head J, Pachón H, Tadesse W, Tesfamariam M, Freeman M. (2019). Integration of water, sanitation, hygiene and nutrition programming is associated with lower prevalence of child stunting and fever in Oromia, Ethiopia. *African Journal of Food, Agriculture, Nutrition and Development*. https://doi.org/10.18697/ajfand.87.17785
 
 Bumburidi Y, Moffett D, Head J, Utepbergenova G, Erezhepov B, Berdiyarova N, et al. (2019). Hospital-based surveillance for encephalitis and meningitis in South Kazakhstan oblast. *International Journal of Infectious Diseases.* https://doi.org/10.1371/journal.pone.0251494
+
+***
+**2018 - **
+
+***
 
 Head JR, Bumburidi Y, Salyer SJ, Knust B, Kuralbekovna MG, Moffett DB. (2018). Prevalence of CCHF Virus in Ticks and People and Public Awareness in Zhambyl Region, Kazakhstan. *Online Journal of Public Health Informatics* https://doi.org/10.5210/ojphi.v10i1.8951
 
