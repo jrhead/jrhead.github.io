@@ -85,6 +85,11 @@ knitr::include_graphics("PeoplePhotos//EveLin.png")
 ### News
 
 ***
+
+Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in an [article](https://www.courthousenews.com/climate-change-drives-another-outbreak-in-california-its-a-spike-in-valley-fever-cases/) by  *The Courthouse News* and on KNX Radio Los Angeles, October 5, 2022
+
+<br>
+
 We discuss how increasing drought may have contributed to the rise of coccidioidomycosis incidence in the Western US: [Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022
 
 <br>
@@ -117,7 +122,7 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 
 ***
 
-Head JR, Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. (2022). Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study. *Lancet Planetary Health*. accepted.
+Head JR, Sondermeyer-Cooksey G, Heaney AK, Yu AT, Jones I, Bhattachan A, Campo SK, Wagner R, Mgbara W, Phillips S, Keeney N, Taylor J, Eisen E, Lettenmaier DP, Hubbard A, Okin GS, Vugia DJ, Jain S, Remais JV. (2022). Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study. *Lancet Planetary Health*. https://doi.org/10.1016/S2542-5196(22)00202-9 
 
 Head JR, Chanthavilay P, Catton H, Vongsitthi A, Khamphouxay K, Simphaly N. (2022). Changes in household food security, access to health services, and income in northern Lao PDR during the COVID-19 pandemic. *BMJ Open.* https://doi.org/10.1136/bmjopen-2021-055935
 
