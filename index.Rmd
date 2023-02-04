@@ -85,20 +85,41 @@ knitr::include_graphics("PeoplePhotos//EveLin.png")
 ### News
 
 ***
+**Print**
 
-Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in an [article](https://www.courthousenews.com/climate-change-drives-another-outbreak-in-california-its-a-spike-in-valley-fever-cases/) by  *The Courthouse News* and on KNX Radio Los Angeles, October 5, 2022
+Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in several articles, including:
+
+- [As climate heats up, Valley fever spikes](https://www.mercurynews.com/2023/01/30/as-californias-climate-heats-up-valley-fever-spikes-especially-on-central-coast/) -  *The Mercury News*, January 30, 2023. This article was also featured on the front page of *The East Bay Times* and in the *Orange County Register*.
+
+- [Climate change drives another outbreak: In California, it’s a spike in Valley fever cases](https://www.courthousenews.com/climate-change-drives-another-outbreak-in-california-its-a-spike-in-valley-fever-cases/) - *The Courthouse News*, October 5, 2022
+
+- [Valley fever cases are on the rise as California’s drought worsens, a UC Berkeley study shows](https://localtoday.news/ca/valley-fever-cases-are-on-the-rise-as-californias-drought-worsens-a-uc-berkeley-study-shows-88354.html) - *Local Today*, October 11, 2022
+
 
 <br>
 
-We discuss how increasing drought may have contributed to the rise of coccidioidomycosis incidence in the Western US: [Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022
+We discuss how increasing drought may have contributed to the rise of coccidioidomycosis incidence in the Western US: [Climate Change is Spreading a Debilitating Fungal Disease Throughout the West](https://insideclimatenews.org/news/22042022/valley-fever-climate-change/) - *Inside Climate News*, April 23, 2022. 
 
 <br>
 
-We discuss evidence for the connection between wildfires and rising coccidioidomycosis incidence in California: [A deadly fungal disease on the rise in the West has experts worried](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/) - *Grist*, Sept. 15, 2021
+We discuss evidence for the connection between wildfires and rising coccidioidomycosis incidence in California: [A deadly fungal disease on the rise in the West has experts worried](https://grist.org/health/valley-fever-rising-us-west-wildfires-cocci-fungus/) - *Grist*, Sept. 15, 2021. This story was also run by *Wired* [here](https://www.wired.com/story/valley-fever-is-spreading-through-a-hotter-drier-western-us/)
 
 <br>
 
 Our paper, "[School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies"](https://doi.org/10.1098/rsif.2020.0970), is featured in an [article](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674) by  *The Conversation*, August 25, 2020, and *The Academic Times*, April 13, 2021
+
+<br>
+
+**Radio**
+
+I discuss what Valley fever is, and how the climate may be behind its rise in California in several radio shows, including:
+
+- KNX Radio Los Angeles, October 5, 2022
+
+- Radio Bilingue Spanish News, Crisis climatica dispara casos de fiebre del valle en California, October 28, 2022. [(Listen here)](http://radiobilingue.org/features/crisis-climatica-dispara-casos-de-fiebre-del-valle-en-california/)
+
+- KCBS Bay Area Podcast, Series of wet and dry weather is causing a rise in cases of Valley Fever, January 31, 2023. [(Listen here)](https://www.audacy.com/kcbsradio/podcasts/kcbs-on-demand-20757/series-of-wet-and-dry-weather-is-causing-a-rise-in-cases-of-valley-fever-1552534668)
+
 
 <br>
 <br>
