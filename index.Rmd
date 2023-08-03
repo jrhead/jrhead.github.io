@@ -1,19 +1,28 @@
 ---
-title: "The Head-Zhutenegger Lab"
+title:    |
+    |    Climate-Sensitive Infections Research Group 
+    |    (CSI - Michigan)
 output:
   html_document:
     theme: yeti
     highlight: tango
     includes:
       after_body: footer.html
-    
+  pdf_document: default
 ---
-## University of California Berkeley | Environmental Health Sciences {.tabset .tabset-pills}
-
+## {.tabset .tabset-pills}
 
 ### About
 
-Welcome to the lab of Dr. Head-Zhutenegger, Assistant Researcher at the University of California Berkeley, Division of Environmental Health Sciences. Our group applies mathematical and statistical models to understand the impact of public health policies, climate, and individual behaviors on infectious disease dynamics. We particularly focus on emerging, environmentally-mediated, or zoonotic diseases. Our work utilizes both large surveillance datasets, as well as primary data collected from household questionnaires, anthrompometric measurements, and serosurveys. Our work and methods cross multiple disciplines, including epidemiology, data science, econometrics, environmental health, and ecology. We collaborate with the California Department of Public Health to help convey findings into actionable public health outcomes.
+***
+
+```{r, echo=FALSE, out.width="60%", fig.align = 'left'}
+knitr::include_graphics("UMlogo.png")
+``` 
+
+***
+
+CSI-Michigan is an interdisciplinary research group located within the Department of Epidemiology at the University of Michigan. Our group applies mathematical and statistical models to understand the impact of climate, public health policies, and individual behaviors on infectious disease dynamics. A major focus of our work is on the emergence of fungal infections, including Valley fever (also known as coccidioidomycosis). Our work and methods cross multiple disciplines, including epidemiology, data science, econometrics, environmental health, and ecology. We collaborate with state and federal agencies to help convey findings into actionable public health outcomes.
 
 <br>
 
@@ -25,50 +34,71 @@ knitr::include_graphics("gif//lab-imgs.gif")
 
 <br>
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
-knitr::include_graphics("UCBlogo.png")
-``` 
 
-### Research
+### Research Projects
 
 ***
-**Valley fever**
-```{r, echo=FALSE, out.width="30%", fig.align = 'left'}
-knitr::include_graphics("BioR_VFspores.png")
-``` 
+**The emergence of Valley fever in a changing climate**
 
-Coccidioidomycosis, or Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestwern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. We work with the Remais and Taylor lab, recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. We are examining the role of environmental conditions -- like drought and wildfires --  geographic expansion of the pathogen.
+<img align="right" src="BioR_VFspores.png" alt="My Image" width = 30% height = 30%>
 
-Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. Dr. Head is a receipient of an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947), which examines the contribution of rodent hosts and burrows to habitats for *Coccidioides*. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. 
+Coccidioidomycosis, also called Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. We work with the Remais and Taylor lab at UC Berkeley, recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. We are examining the role of environmental conditions -- like drought and wildfires --  in the geographic expansion of the pathogen.
 
 ***
-**COVID-19 transmission in schools**
+**Environmental distribution of Valley fever**
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
-knitr::include_graphics("BioR_COVID.png")
-``` 
+<img align="right" src="D8H_9187.jpg" alt="My Image" width=30% height=30%>
 
-We are working with the California Department of Public Health to understand the influence of public health policies in schools on transmission attributable to in-person schooling. We use mathematical models and econometric designs to understand transmission dynamics. Some published modeling work can be seen [here](https://doi.org/10.1016/j.lana.2021.100133) and [here](https://doi.org/10.1098/rsif.2020.0970). Dr. Head is also funded by a MIDAS Urgent Grant to conduct longitudinal surveys to measure social contacts among school children and their adult family members.
+*Coccidioides*, the fungal pathogen that causes Valley fever, grows in the soil and becomes airborne. We are examining climate and zoonotic factors that influence its presence in soil and dispersal through air. Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. This project was started under an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947). 
+
+<br>
+<br>
+<br>
+<br>
 
 ***
-**Maternal and child nutrition**
+**Population immunity to Valley fever and other endemic mycoses**
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
-knitr::include_graphics("BioR_growth.png")
-``` 
+<img align="right" src="VFVaccine.jpg" alt="My Image" width=30% height=30%>
 
-Dr. Head is a survey consultant for various NGO's, including Save the Children and CARE. She works with local partners to conduct and analyse household anthropometric surveys to evaluate programs that aim to improve nutritional and growth outcomes among women and children under five years.
+Despite its changing epidemiology, our most recent knowledge of immunity to Valley fever and other fungal infections is based on surveys from 1951. Cases ascertained by surveillance systems are believed to vastly undercount true incidence: CDC estimates nearly 150,000 cases of coccidioidomycosis go uncounted each year. Dr. Head is a recipient of an NIH K01 grant, "Modelled estimation of population immunity for coccidioidomycosis and the role of immunologically naive populations in the shifting epidemiology of coccidioidomycosis in California" to address this gap. This project will also develop new models to evaluate how population movement biases residence-based measures of association.
+
+Incidence of Valley fever is disproportionately high among incarcerated populations. As part of this project, the group is also working with California Correctional Health Care Services to examine risk factors for the transmission of Valley fever and evaluate preventative measures among California's incarcerated residents. 
+
+***
+**Climate and other emerging fungal infections: histoplasmosis and blastomycosis**
+<img align="right" src="histo.png" alt="My Image" width = 30% height = 30%>
+
+Fungal infections endemic to the Midwest and eastern parts of the US include histoplasmosis and blastomycosis. These diseases may also be climate-sensitive and are changing their spatial distribution. Dr. Head is a co-I on an NIH R01 project to investigate the relationship between climatic factors and other fungal infections, leveraging massive electronic health record and Medicare datasets.
+
+<br>
+<br>
+
+***
+**COVID-19 transmission in pediatric populations**
+
+<img align="right" src="BioR_COVID.png" alt="My Image" width = 25% height = 25%>
+
+Our group is interested in a variety of emerging infectious diseases. We are working with the California Department of Public Health to understand the influence of public health policies in schools on transmission attributable to in-person schooling. We use mathematical models and econometric designs to understand transmission dynamics. Some published modeling work can be seen [here](https://doi.org/10.1016/j.lana.2021.100133) and [here](https://doi.org/10.1098/rsif.2020.0970). We are also working to understand impact of pediatric vaccines on childhood COVID-19 rates.
+
+<br>
+<br>
+<br>
 
 ***
 
 <br>
 <br>
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
-knitr::include_graphics("UCBlogo.png")
+```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
+knitr::include_graphics("UMlogo.png")
 ``` 
 
 ### People
+
+***
+
+#### Current members
 
 **Jennifer Head-Zhutenegger, PhD, MPH**: Lab PI
 
@@ -76,11 +106,21 @@ knitr::include_graphics("UCBlogo.png")
 knitr::include_graphics("PeoplePhotos//JenniferHead.png")
 ``` 
 
-**Eve Lin**: Undergraduate researcher majoring in Computer Science
+***
+
+#### Affiliated labs
+We work closely with the research group of [Dr. Alexandra Heaney](alexandraheaney.com) at University of California, San Diego.
+
+***
+
+#### Previous members
+
+**Eve Lin**: Eve earned her B.S. in Computer Science from UC Berkeley and now works at Microsoft.
 
 ```{r, echo=FALSE, out.width="20%", fig.align = 'left'}
 knitr::include_graphics("PeoplePhotos//EveLin.png")
 ``` 
+
 
 ### News
 
@@ -112,7 +152,7 @@ Our paper, "[School closures reduced social mixing of children during COVID-19 w
 
 **Radio**
 
-I discuss what Valley fever is, and how the climate may be behind its rise in California in several radio shows, including:
+Dr. Head discusses what Valley fever is, and how the climate may be behind its rise in California in several radio shows, including:
 
 - KNX Radio Los Angeles, October 5, 2022
 
@@ -124,8 +164,8 @@ I discuss what Valley fever is, and how the climate may be behind its rise in Ca
 <br>
 <br>
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
-knitr::include_graphics("UCBlogo.png")
+```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
+knitr::include_graphics("UMlogo.png")
 ``` 
 
 
@@ -137,7 +177,15 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 
 ***
 
-**Publications:**
+**2023**
+
+***
+
+Phillips S, Jones I, Sondermyer-Cooksey G, Yu A, Heaney AK, Zhou B, Bhattachan A, Mgbara W, Wagner R, Taylor J, Lettenmaier D, Okin G, Jain S, Vugia DJ, Remais JV, **Head JR**. (2023). Population-level association between wildfires and coccidioidomycosis cases in California, 2000-2018: a synthetic control analysis. *Environmental Epidemiology*. https://doi.org/10.1097/EE9.0000000000000254.
+
+Wagner R, Montoya, L, **Head JR**, Campo S, Taylor JV, Taylor JW. (2023). *Coccidioides* undetected in agricultural soils and unassociated with time in undeveloped soils. *PLoS Pathogens*. https://doi.org/10.1371/journal.ppat.1011391 
+
+***
 
 **2022**
 
@@ -216,11 +264,12 @@ Head JR, Getachew B, Gabrehiwot M. (2014). Harnessing local technology: Manufact
 <br>
 <br>
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
-knitr::include_graphics("UCBlogo.png")
+```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
+knitr::include_graphics("UMlogo.png")
 ``` 
 
 ### Contact
+***
 
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
@@ -229,7 +278,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 Want to collaborate? Have questions? Find me here:
 
-Email: jennifer_head@berkeley.edu
+Email: jrhead@umich.edu
 
 Twitter: @JenniferR_Head
 
@@ -245,6 +294,6 @@ knitr::include_graphics("D8H_6063.jpg")
 <br>
 <br>
 
-```{r, echo=FALSE, out.width="20%", fig.align = 'center'}
-knitr::include_graphics("UCBlogo.png")
+```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
+knitr::include_graphics("UMlogo.png")
 ``` 
