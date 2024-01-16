@@ -51,6 +51,8 @@ Coccidioidomycosis, also called Valley fever, is a fungal disease caused by inha
 
 *Coccidioides*, the fungal pathogen that causes Valley fever, grows in the soil and becomes airborne. We are examining climate and zoonotic factors that influence its presence in soil and dispersal through air. Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. This project was started under an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947). 
 
+Separately, we are working with the US EPA to understand *Coccidioides* airborne dispersal using Unmanned Aircraft Systems (UAS).
+
 <br>
 <br>
 <br>
@@ -127,7 +129,13 @@ knitr::include_graphics("PeoplePhotos//EveLin.png")
 ***
 **Print**
 
+Our field and climate modeling work was highlighted in *The Washington Post* and can be read [here](https://wapo.st/3sv80jW). This article features ongoing soil sampling to understand the fungus's association with rodent burrows, novel air sampling using UAS, and published work on the association between drought, precipitation, and Valley fever.
+
 Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in several articles, including:
+
+- [Valley fever: Why the fungal disease is spreading into northern California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php) - *San Fransciso Chronicle*, August 13, 2023
+
+- [The battle against the fungal apocolypse is just beginning](https://www.wired.com/story/the-battle-against-the-fungal-apocalypse-is-just-beginning/?utm_source=twitter&utm_medium=social&mbid=social_tw_sci&utm_brand=wired-science&utm_social-type=owned) - *Wired*, August 25, 2023
 
 - [As climate heats up, Valley fever spikes](https://www.mercurynews.com/2023/01/30/as-californias-climate-heats-up-valley-fever-spikes-especially-on-central-coast/) -  *The Mercury News*, January 30, 2023. This article was also featured on the front page of *The East Bay Times* and in the *Orange County Register*.
 
@@ -149,6 +157,10 @@ We discuss evidence for the connection between wildfires and rising coccidioidom
 Our paper, "[School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies"](https://doi.org/10.1098/rsif.2020.0970), is featured in an [article](https://theconversation.com/reopening-elementary-schools-carries-less-covid-19-risk-than-high-schools-but-that-doesnt-guarantee-safety-144674) by  *The Conversation*, August 25, 2020, and *The Academic Times*, April 13, 2021
 
 <br>
+
+**Podcast**
+
+Dr. Head is interviewed about Valley fever as part of SF Chronicle's Fifth & Mission Podcast. Listen [here](https://www.sfchronicle.com/podcasts/article/valley-fever-climate-change-18297408.php)
 
 **Radio**
 
