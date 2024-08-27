@@ -22,7 +22,7 @@ knitr::include_graphics("UMlogo.png")
 
 ***
 
-CSI-Michigan is an interdisciplinary research group located within the Department of Epidemiology at the University of Michigan. Our group applies mathematical and statistical models to understand the impact of climate, public health policies, and individual behaviors on infectious disease dynamics. A major focus of our work is on the emergence of fungal infections, including Valley fever (also known as coccidioidomycosis). Our work and methods cross multiple disciplines, including epidemiology, data science, econometrics, environmental health, and ecology. We collaborate with state and federal agencies to help convey findings into actionable public health outcomes.
+CSI-Michigan is an interdisciplinary research group located within the Department of Epidemiology at the University of Michigan. Our group applies mathematical and statistical models to understand the impact of climate, public health policies, and individual behaviors on infectious disease dynamics. A major focus of our work is on the emergence of fungal infections, including Valley fever (also known as coccidioidomycosis), blastomycosis, and histoplasmosis. Our work and methods cross multiple disciplines, including epidemiology, data science, econometrics, environmental health, and ecology. We collaborate with state and federal agencies to help convey findings into actionable public health outcomes.
 
 <br>
 
@@ -45,13 +45,14 @@ knitr::include_graphics("gif//lab-imgs.gif")
 Coccidioidomycosis, also called Valley fever, is a fungal disease caused by inhalation of soil-dwelling spores endemic to the southwestern US. Incidence has been increasing markedly in the American southwest, and environmental factors are likely at play. We work with the Remais and Taylor lab at UC Berkeley, recipients of an NIH R01 project, ["Integrating epidemiologic and environmental approaches to understand and predict Coccidioides exposure and coccidioidomycosis emergence"](https://reporter.nih.gov/search/rJKT6hvETUy8suWJ0QN6nA/project-details/10065493) to addresses gaps in our understanding of the kinds of dust exposures, and the environmental and social conditions, that increase the incidence of coccidioidomycosis in the southwest. We are examining the role of environmental conditions -- like drought and wildfires --  in the geographic expansion of the pathogen.
 
 ***
-**Environmental distribution of Valley fever**
+**Distribution of human-pathogenic fungi in environmental media (soil, air, zoonotic hosts)**
 
 <img align="right" src="D8H_9187.jpg" alt="My Image" width=30% height=30%>
 
 *Coccidioides*, the fungal pathogen that causes Valley fever, grows in the soil and becomes airborne. We are examining climate and zoonotic factors that influence its presence in soil and dispersal through air. Rodents may play an important role in the lifecycle of the *Coccidioides* fungus. We are conducting longitudinal soil surveillance within burrows and surface soils within the Carrizo Plain, in areas with rodents and without. The Carrizo Plain is endemic for the pathogen as well as home to a large population of the endangered kangaroo rat. This project was started under an NIH F31 grant, ["Elucidating the role of rodent hosts on transmission of coccidiodomycosis in California"](https://reporter.nih.gov/search/rQH2DRMYj0CoV0qQ0RiNIg/project-details/10216947). 
+Separately, we are working with the US EPA to understand *Coccidioides* airborne dispersal using Unmanned Aircraft Systems (UAS). By affixing portable air sampling devices to uncrewed aircraft systems, we can detect aerosolized *Coccidioides* spores across a variety of landscapes and hard-to-reach locations, while simulataneously collected detailed geospatial information.
 
-Separately, we are working with the US EPA to understand *Coccidioides* airborne dispersal using Unmanned Aircraft Systems (UAS).
+Bats are known hosts for *Histoplasma* spp., a fungal pathogens that cause histoplasmosis, and - to a lesser degree - can be infected with *Blastomyces* spp., a fungal pathogen that causes blastomycosis. Outbreaks of histoplasmosis are often associated with caves and bat guano, but it is unclear whether bats are carrying the fungus and depositing it via their feces or merely providing the proper nutrients for the fungus to grow in soils. We are investigating the distribution of *Histoplasma* and *Blastomyces* species in bats in Michigan.
 
 <br>
 <br>
@@ -110,12 +111,21 @@ knitr::include_graphics("PeoplePhotos//JenniferHead.png")
 
 ***
 
-#### Affiliated labs
-We work closely with the research group of [Dr. Alexandra Heaney](alexandraheaney.com) at University of California, San Diego.
+#### Current members
+
+**Vanessa Slack**: Vanessa is a PhD student Epidemiology at the University of Michigan. 
+
+**Sophia Kruger**: Sophia earned her MPH in Epidemiology from University of Michigan.
+
+**Kelly Yan**: Kelly is an MPH in Epidemiology at the University of Michigan.
+
+**Jack Ullman**: Jack is a senior in Ecology and Evolutionary Biology at the University of Michigan.
 
 ***
 
 #### Previous members
+
+**Sarah Dobson**: Sarah earned her MPH in Epidemiology from University of Michigan and now works at Centers for Disease Prevention and Control.
 
 **Eve Lin**: Eve earned her B.S. in Computer Science from UC Berkeley and now works at Microsoft.
 
@@ -189,6 +199,15 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 
 ***
 
+**2024**
+
+***
+**Head JR**, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, Lewnard JA, Remais JV. (2024). COVID-19 Vaccination and Incidence of Pediatric SARS-CoV-2 Infection and Hospitalization. *JAMA Network Open*. https://doi.org/10.1001/jamanetworkopen.2024.7822.
+
+Heaney AK, Camponuri SK, **Head JR**, Collender PA, Weaver AK, Sondermeyer Cooksey G, Yu A, Vuigia D, Jain S, Bhattachan, A, Taylor JW, Remais JV. Coccidioidomycosis seasonality in California: a longitudinal surveillance study of the climate determinants and spatiotemporal variability of seasonal dynamics, 2000–2021. *Lancet Regional Health - Americas*. https://doi.org/10.1016/j.lana.2024.100864.
+
+***
+
 **2023**
 
 ***
@@ -196,6 +215,10 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 Phillips S, Jones I, Sondermyer-Cooksey G, Yu A, Heaney AK, Zhou B, Bhattachan A, Mgbara W, Wagner R, Taylor J, Lettenmaier D, Okin G, Jain S, Vugia DJ, Remais JV, **Head JR**. (2023). Population-level association between wildfires and coccidioidomycosis cases in California, 2000-2018: a synthetic control analysis. *Environmental Epidemiology*. https://doi.org/10.1097/EE9.0000000000000254.
 
 Wagner R, Montoya, L, **Head JR**, Campo S, Taylor JV, Taylor JW. (2023). *Coccidioides* undetected in agricultural soils and unassociated with time in undeveloped soils. *PLoS Pathogens*. https://doi.org/10.1371/journal.ppat.1011391 
+
+Cheng Q, Jing Q, Collender PA, **Head JR**, Li Q, Yu H, Li Z, Ju Y, Chen T, Wang P, Cleary E, Lai S. (2023). Prior water availability modifies the effect of heavy rainfall on dengue transmission: a time series analysis of passive surveillance data from southern China. *Frontiers in Public Health*. https://doi.org/10.3389/fpubh.2023.1287678. 
+
+Li C, Lum F, Chen EM, Collender PA, **Head JR**, Khurana RN, Cunningham Jr ET, Moorthy RS, Parke DW, McLeod SD. (2023). Shifts in ophthalmic care utilization during the COVID-19 pandemic in the US. *Communications Medicine*. https://doi.org/10.1038/s43856-023-00416-4
 
 ***
 
