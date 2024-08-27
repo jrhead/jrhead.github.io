@@ -1,6 +1,7 @@
 ## Making gif ##
 
 library(magick)
+setwd("C:\\Users\\jrhead\\University of Michigan Dropbox\\Jennifer Head\\Website\\jrhead.github.io")
 imgs <- list.files("gif", pattern = ".jpg", full.names = TRUE)
 
 img_list <- lapply(imgs, image_read)
@@ -15,3 +16,4 @@ img_animated <- image_animate(img_joined,
 ## save to disk
 image_write(image = image_scale(img_animated, "1000x667"),
             path = "gif//lab-imgs.gif")
+
