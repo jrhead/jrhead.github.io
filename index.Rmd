@@ -119,6 +119,12 @@ knitr::include_graphics("PeoplePhotos//JenniferHead.png")
 
 **Kelly Yan**: Kelly is an MPH in Epidemiology at the University of Michigan.
 
+**Carly Kallembach:** Carly is an MPH in Environmental Health Sciences at the University of Michigan.
+
+**Julia Hermann**: Julia is an MPH in Epidemiology at the University of Michigan.
+
+**Arundhati Rajan**: Aru is an MPH in Biostatistics at the University of Michigan.
+
 **Jack Ullman**: Jack is a senior in Ecology and Evolutionary Biology at the University of Michigan.
 
 ***
@@ -142,6 +148,8 @@ knitr::include_graphics("PeoplePhotos//EveLin.png")
 Our field and climate modeling work was highlighted in *The Washington Post* and can be read [here](https://wapo.st/3sv80jW). This article features ongoing soil sampling to understand the fungus's association with rodent burrows, novel air sampling using UAS, and published work on the association between drought, precipitation, and Valley fever.
 
 Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in several articles, including:
+
+- [Drought, flooding, drought again: Is ‘weather whiplash’ our new normal?](https://www.nationalgeographic.com/environment/article/weather-climate-whiplash-drought-floods-heat-wildfires) - *National Geographic*, Sept 18, 2024
 
 - [Valley fever: Why the fungal disease is spreading into northern California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php) - *San Fransciso Chronicle*, August 13, 2023
 
@@ -205,6 +213,14 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 **Head JR**, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, Lewnard JA, Remais JV. (2024). COVID-19 Vaccination and Incidence of Pediatric SARS-CoV-2 Infection and Hospitalization. *JAMA Network Open*. https://doi.org/10.1001/jamanetworkopen.2024.7822.
 
 Heaney AK, Camponuri SK, **Head JR**, Collender PA, Weaver AK, Sondermeyer Cooksey G, Yu A, Vuigia D, Jain S, Bhattachan, A, Taylor JW, Remais JV. Coccidioidomycosis seasonality in California: a longitudinal surveillance study of the climate determinants and spatiotemporal variability of seasonal dynamics, 2000–2021. *Lancet Regional Health - Americas*. https://doi.org/10.1016/j.lana.2024.100864.
+
+Lin E$^*$, Bilinski A, Collender PA, Lee V, Sud S, Leon TM, White LA, Remais JV, **Head JR**. Association of COVID-19 incidence with age eligibility for elementary school in California. **JAMA Network Open** *Accepted*.
+
+Weaver AK,  Keeney N, **Head JR**, Heaney AK, Camponuri SK, Collender P, Bhattachan A, Okin GS, Eisen EA, Sondermeyer-Cooksey G, Yu A, Vugia D, Jain S, Balmes J, Taylor J, Remais JV, Strickland MJ. Estimating the exposure-response relationship between fine mineral dust concentration and coccidioidomycosis incidence using speciated particulate matter data: A longitudinal surveillance study. **Environmental Health Perspectives** *Accepted*.
+
+**Head, JR**, Camponuri SK, Weaver AK, Montoya L, Lee E, Radosevich M, Jones I, Wagner R, Bhattachan A, Campbell G, Keeney N, Collender PA, Heaney AK, Couper L, Colvin KA, Larios L, Bean WT, Taylor JW, Remais JV. (2024). [Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA](). **bioRXiv**.
+
+Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balmes J, Remais JV, **Head, JR**. (2024). [Recent and forecasted increases in coccidioidomycosis incidence in California linked to hydroclimatic swings](https://www.medrxiv.org/content/10.1101/2024.08.30.24312858v1). **medRXiv**.
 
 ***
 
@@ -302,6 +318,17 @@ Head JR, Getachew B, Gabrehiwot M. (2014). Harnessing local technology: Manufact
 ```{r, echo=FALSE, out.width="50%", fig.align = 'center'}
 knitr::include_graphics("UMlogo.png")
 ``` 
+
+### Software
+***
+
+**Epidemiology Review**\
+[https://jrhead.shinyapps.io/EpidemiologyReview/](https://jrhead.shinyapps.io/EpidemiologyReview/) \
+*Open-source and interactive website featuring reviews of core concepts in epidemiology, interactive problems, and re-generative problem sets.*
+
+**Assigning GPS points to administrative units**\
+[https://jrhead.shinyapps.io/assignGEOIDs/](https://jrhead.shinyapps.io/assignGEOIDs/) \
+*Open-source application for assigning GPS points to administrative GEOIDs.*
 
 ### Contact
 ***
