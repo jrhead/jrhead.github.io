@@ -117,13 +117,15 @@ knitr::include_graphics("PeoplePhotos//JenniferHead.png")
 
 **Sophia Kruger**: Sophia earned her MPH in Epidemiology from University of Michigan.
 
-**Kelly Yan**: Kelly is an MPH in Epidemiology at the University of Michigan.
+**Kelly Yan**: Kelly is an MPH student in Epidemiology at the University of Michigan.
 
-**Carly Kallembach:** Carly is an MPH in Environmental Health Sciences at the University of Michigan.
+**Zoe Brokering**: Zoe is an MPH student in Epidemiology at the University of Michigan.
 
-**Julia Hermann**: Julia is an MPH in Epidemiology at the University of Michigan.
+**Carly Kallembach:** Carly is an MPH student in Environmental Health Sciences at the University of Michigan.
 
-**Arundhati Rajan**: Aru is an MPH in Biostatistics at the University of Michigan.
+**Julia Hermann**: Julia is an MPH student in Epidemiology at the University of Michigan.
+
+**Arundhati Rajan**: Aru is an MPH student in Biostatistics at the University of Michigan.
 
 **Jack Ullman**: Jack is a senior in Ecology and Evolutionary Biology at the University of Michigan.
 
@@ -145,7 +147,9 @@ knitr::include_graphics("PeoplePhotos//EveLin.png")
 ***
 **Print**
 
-Our field and climate modeling work was highlighted in *The Washington Post* and can be read [here](https://wapo.st/3sv80jW). This article features ongoing soil sampling to understand the fungus's association with rodent burrows, novel air sampling using UAS, and published work on the association between drought, precipitation, and Valley fever.
+Our field and climate modeling work was highlighted in **Science News** [here](https://www.science.org/content/article/climate-change-may-be-driving-spread-deadly-fungus-u-s-southwest) and in **The Washington Post** [here](https://www.washingtonpost.com/climate-environment/interactive/2023/valley-fever-spread-climate-change-coccidioides-fungus/). These articles feature ongoing soil sampling to understand the fungus's association with rodent burrows, novel air sampling using UAS, and published work on the association between drought, precipitation, and Valley fever.
+
+<br>
 
 Our paper, [Effects of precipitation, heat, and drought on incidence and expansion of coccidioidomycosis in western USA: a longitudinal surveillance study](https://doi.org/10.1016/S2542-5196(22)00202-9), is featured in several articles, including:
 
@@ -178,7 +182,11 @@ Our paper, "[School closures reduced social mixing of children during COVID-19 w
 
 **Podcast**
 
-Dr. Head is interviewed about Valley fever as part of SF Chronicle's Fifth & Mission Podcast. Listen [here](https://www.sfchronicle.com/podcasts/article/valley-fever-climate-change-18297408.php)
+Our field and climate modeling work was highlighted in a *Science News* podcast and can be listened to [here](https://www.science.org/content/podcast/rising-infections-dusty-devil-and-nailing-down-when-our-ancestors-became-meat-eaters)
+
+Jennifer Head is interviewed by *JAMA Network Open* about recent paper, ["COVID-19 Incidence and Age Eligibility for Elementary School"](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2826171) . Listen [here](https://edhub.ama-assn.org/jn-learning/audio-player/18927475)
+
+Jennifer Head is interviewed about Valley fever as part of SF Chronicle's Fifth & Mission Podcast. Listen [here](https://www.sfchronicle.com/podcasts/article/valley-fever-climate-change-18297408.php)
 
 **Radio**
 
@@ -207,20 +215,33 @@ See here for a list of publications in [Google Scholar](https://scholar.google.c
 
 ***
 
+**2025**
+
+***
+
+Weaver AK,  Keeney N, **Head JR**, Heaney AK, Camponuri SK, Collender P, Bhattachan A, Okin GS, Eisen EA, Sondermeyer-Cooksey G, Yu A, Vugia D, Jain S, Balmes J, Taylor J, Remais JV, Strickland MJ. Estimating the exposure-response relationship between fine mineral dust concentration and coccidioidomycosis incidence using speciated particulate matter data: A longitudinal surveillance study. *Environmental Health Perspectives* 133(1). https://ehp.niehs.nih.gov/doi/10.1289/EHP13875
+
+**preprints**
+
+**Head, JR**, Camponuri SK, Weaver AK, Montoya L, Lee E, Radosevich M, Jones I, Wagner R, Bhattachan A, Campbell G, Keeney N, Collender PA, Heaney AK, Couper L, Colvin KA, Larios L, Bean WT, Taylor JW, Remais JV. (2024). Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA. *bioRXiv*. https://www.biorxiv.org/content/10.1101/2024.09.21.613892v1.full
+
+Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balmes J, Remais JV, **Head, JR**. (2024). Recent and forecasted increases in coccidioidomycosis incidence in California linked to hydroclimatic swings. *medRXiv*. https://www.medrxiv.org/content/10.1101/2024.08.30.24312858v1
+
+Radosevich MT, Dobson S, Weaver AK, Lampman PTA, Kollath DR, Couper L, Campbell G, Taylor JW, Remais JV, Kobziar L, Markwiese J, **Head, JR**. (2024). Detection of airborne Coccidioides spores using lightweight portable air samplers affixed to uncrewed aircraft systems in California's Central Valley. *bioRXiv*. https://www.biorxiv.org/content/10.1101/2024.10.28.620741v2
+
+Camponuri SK, **Head, JR**, Collender PA, Weaver AK, Heaney AK, Colvin KA, Bhattachan A, Sondermeyer-Cooksey G, Vugia DJ, Jain S, Remais JV. (2024). Prolonged dry seasons lengthen coccidioidomycosis transmission seasons: implications for a changing California. *medRXiv*. https://www.medrxiv.org/content/10.1101/2024.10.22.24315941v1
+
+***
+
 **2024**
 
 ***
+
+Lin E, Bilinski A, Collender PA, Lee V, Sud S, Leon TM, White LA, Remais JV, **Head JR**. Association of COVID-19 incidence with age eligibility for elementary school in California. *JAMA Network Open* 7(11), e2444836. https://doi.org/10.1001/jamanetworkopen.2024.44836
+
 **Head JR**, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, Lewnard JA, Remais JV. (2024). COVID-19 Vaccination and Incidence of Pediatric SARS-CoV-2 Infection and Hospitalization. *JAMA Network Open*. https://doi.org/10.1001/jamanetworkopen.2024.7822.
 
 Heaney AK, Camponuri SK, **Head JR**, Collender PA, Weaver AK, Sondermeyer Cooksey G, Yu A, Vuigia D, Jain S, Bhattachan, A, Taylor JW, Remais JV. Coccidioidomycosis seasonality in California: a longitudinal surveillance study of the climate determinants and spatiotemporal variability of seasonal dynamics, 2000–2021. *Lancet Regional Health - Americas*. https://doi.org/10.1016/j.lana.2024.100864.
-
-Lin E$^*$, Bilinski A, Collender PA, Lee V, Sud S, Leon TM, White LA, Remais JV, **Head JR**. Association of COVID-19 incidence with age eligibility for elementary school in California. **JAMA Network Open** *Accepted*.
-
-Weaver AK,  Keeney N, **Head JR**, Heaney AK, Camponuri SK, Collender P, Bhattachan A, Okin GS, Eisen EA, Sondermeyer-Cooksey G, Yu A, Vugia D, Jain S, Balmes J, Taylor J, Remais JV, Strickland MJ. Estimating the exposure-response relationship between fine mineral dust concentration and coccidioidomycosis incidence using speciated particulate matter data: A longitudinal surveillance study. **Environmental Health Perspectives** *Accepted*.
-
-**Head, JR**, Camponuri SK, Weaver AK, Montoya L, Lee E, Radosevich M, Jones I, Wagner R, Bhattachan A, Campbell G, Keeney N, Collender PA, Heaney AK, Couper L, Colvin KA, Larios L, Bean WT, Taylor JW, Remais JV. (2024). [Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA](). **bioRXiv**.
-
-Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balmes J, Remais JV, **Head, JR**. (2024). [Recent and forecasted increases in coccidioidomycosis incidence in California linked to hydroclimatic swings](https://www.medrxiv.org/content/10.1101/2024.08.30.24312858v1). **medRXiv**.
 
 ***
 
