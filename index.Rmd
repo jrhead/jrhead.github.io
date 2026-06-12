@@ -97,6 +97,10 @@ Our group is interested in a variety of emerging infectious diseases. We are wor
 knitr::include_graphics("UMlogo.png")
 ``` 
 
+### Group photos
+
+Here are some photos of us!
+
 ### People
 
 ***
