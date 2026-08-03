@@ -380,15 +380,15 @@ Hermann JN, Kruger SE, Wodniak N, Holland J, Janosick V, Sanchez A, Zuniga-Moya 
 
 Weaver AK,  Keeney N, **Head JR**, Heaney AK, Camponuri SK, Collender P, Bhattachan A, Okin GS, Eisen EA, Sondermeyer-Cooksey G, Yu A, Vugia D, Jain S, Balmes J, Taylor J, Remais JV, Strickland MJ. Estimating the exposure-response relationship between fine mineral dust concentration and coccidioidomycosis incidence using speciated particulate matter data: A longitudinal surveillance study. *Environmental Health Perspectives* 133(1). https://ehp.niehs.nih.gov/doi/10.1289/EHP13875 
 
-Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balmes J, Remais JV, **Head, JR**. (2025). Recent and forecasted increases in coccidioidomycosis incidence in California linked to hydroclimatic swings.*Emerging Infectious Diseases* 31(5): 1028 - 1032. https://doi.org/10.3201/eid3105.241338 
+Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balmes J, Remais JV, **Head, JR**. (2025). Recent and forecasted increases in coccidioidomycosis incidence in California linked to hydroclimatic swings. *Emerging Infectious Diseases* 31(5): 1028 - 1032. https://doi.org/10.3201/eid3105.241338 
 
 Radosevich MT, Dobson S, Weaver AK, Lampman PTA, Kollath DR, Couper L, Campbell G, Taylor JW, Remais JV, Kobziar L, Markwiese J, **Head, JR**. (2024). Detection of airborne Coccidioides spores using lightweight portable air samplers affixed to uncrewed aircraft systems in California's Central Valley. *Environmental Science & Technology Letters* 12 (5): 580–586. https://doi.org/10.1021/acs.estlett.4c01089
 
-Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). [Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023](https://doi.org/10.1093/infdis/jiaf472). **The Journal of Infectious Diseases** jiaf472. 
+Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023. *The Journal of Infectious Diseases* 232(6):e1048-e1059. https://doi.org/10.1093/infdis/jiaf472
 
-Brooks RA, Yan K, **Head JR**. (2025). Assessment of prior infection with histoplasmosis using skin test and serological surveys: a global systematic review. **Open Forum Infectious Diseases** 12(8): ofaf437. https://doi.org/10.1093/ofid/ofaf437
+Brooks RA, Yan K, **Head JR**. (2025). Assessment of prior infection with histoplasmosis using skin test and serological surveys: a global systematic review. *Open Forum Infectious Diseases* 12(8): ofaf437. https://doi.org/10.1093/ofid/ofaf437
 
-Bartels JGE, **Head JR**, Camponuri SK, Eisen EA. (2025). Valley Fever Is an Occupational Illness: Let's Get the Data to Prevent It. **American Journal of Industrial Medicine** 68(11):929-932. https://doi.org/10.1002/ajim.70017
+Bartels JGE, **Head JR**, Camponuri SK, Eisen EA. (2025). Valley Fever Is an Occupational Illness: Let's Get the Data to Prevent It. *American Journal of Industrial Medicine* 68(11):929-932. https://doi.org/10.1002/ajim.70017
 
 Camponuri SK, **Head, JR**, Collender PA, Weaver AK, Heaney AK, Colvin KA, Bhattachan A, Sondermeyer-Cooksey G, Vugia DJ, Jain S, Remais JV. (2024). Prolonged coccidioidomycosis transmission seasons in a warming California: a Markov state transition model of shifting disease dynamics. *Journal Royal Society Interface*. 22 (223): 20240821. https://doi.org/10.1098/rsif.2024.0821
 
