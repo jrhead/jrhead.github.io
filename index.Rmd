@@ -250,19 +250,25 @@ BS Animal Science, Iowa University
 
 **Chris Bull (Graduate Research Assistant)**:
 
+<img src="PeoplePhotos//Bull.png" style="float: left; width: 20%; margin-right: 20px;" alt="Chris Bull">
+
 MS Computational Epidemiology and Systems Modeling, University of Michigan (ongoing)
+
+BS Economics and Mathematical Methods in the Social Sciences, Northwestern University
 
 *Email*: cwbull@umich.edu
 
-*Research interests*:
+*Research interests*: Chris is interested in applying quantitative approaches to understand how interactions between humans and their built and natural environments modulate infectious disease dynamics. He is particularly interested in understanding how new infectious disease risks may emerge under climate change, both as a direct result of sustained planetary warming and as a product of climate-induced patterns of human mobility and land use.
 
-*Current projects:*
+*Current projects:* Chris is characterizing climate and health relationships among older adults using national Medicare claims data. He leads work to understand associations between temperature volatility and mortality and supports work on extreme precipitation, flooding and respiratory infection.
 
-*Other interests:*
+*Other interests:* Playing and watching soccer, playing guitar, watching movies, and hiking.
 
 ***
 
 **Emma Kohrt (Graduate Research Assistant)**:
+
+<img src="PeoplePhotos//Kohrt.jpeg" style="float: left; width: 20%; margin-right: 20px;" alt="Emma Kohrt">
 
 MPH Epidemiology, University of Michigan (ongoing)
 
@@ -270,15 +276,17 @@ BS Health Sciences, Northeastern University
 
 *Email*: ekohrt@umich.edu
 
-*Research interests*:
+*Research interests*: Infectious disease epidemiology, pharmacoepidemiology, real-world evidence, and health outcomes research
 
-*Current projects:*
+*Current projects:* Investigating nationwide trends in fungal infection (blastomycosis, histoplasmosis, coccidioidomycosis) incidence from 2006 to 2021 using Medicare claims data.
 
-*Other interests:*
+*Other interests:* Emma is originally from Connecticut and loves spending time outdoors, especially going to the beach and exploring new places! In her free time, she also enjoys reading, catching up on reality TV, and trying out new coffee shops.
 
 ***
 
 **Emilia Yu (Graduate Research Assistant)**:
+
+<img src="PeoplePhotos//Yu.jpg" style="float: left; width: 20%; margin-right: 20px;" alt="Emilia Yu">
 
 MPH Epidemiology, University of Michigan (ongoing)
 
@@ -286,11 +294,11 @@ BA Economics, New York University
 
 *Email*: emiliayu@umich.edu
 
-*Research interests*:
+*Research interests*: Infectious disease, social epidemiology, mental health
 
-*Current projects:*
+*Current projects:* Mixed-methods study of the effects of extreme weather on health
 
-*Other interests:*
+*Other interests:* Emilia is originally from Pennsylvania but lived in New York City for over a decade before coming to Ann Arbor for school! She enjoys listening to and playing music, playing video games and Dungeons and Dragons, and exploring the local food scene.  
 
 ***
 
@@ -312,17 +320,19 @@ BS Microbial Biology, University of California Berkeley
 
 **Vianey Cardiel (Graduate Research Assistant)**:
 
+<img src="PeoplePhotos//Cardiel.jpg" style="float: left; width: 20%; margin-right: 20px;" alt="Vianey Cardiel">
+
 MPH Epidemiology, University of Michigan (ongoing)
 
 BS Neuroscience, University of Michigan
 
 *Email*: vcardiel@umich.edu
 
-*Research interests*:
+*Research interests*: Climate change, human-animal-ecosystem disease interactions, and wildlife conservation
 
-*Current projects:*
+*Current projects:* Laboratory analysis of soil samples for *Blastomyces*  
 
-*Other interests:*
+*Other interests:* Vianey enjoys hiking, drawing, cooking, and finding new shows to watch. She volunteers at the Huron Valley Animal Society in her spare time and has isopods and fish as pets!
 
 ***
 
@@ -359,6 +369,7 @@ Select publications that best represent the group are below. See a full list of 
 **2026**
 
 ***
+Couper LI, Gonzalez DJX, Camponuri SK, Weaver AK, Sondermeyer Cooksey GL, Vugia D, Jain S, Taylor J, Balmes J, Eisen EA, Remias JV, **Head JR** (2026). Oil and gas well development and coccidioidomycosis risk in Kern County, CA, USA: a case-crossover study. *Lancet Planetary Health*. https://doi.org/10.1016/j.lanplh.2026.101521
 
 **Head JR** and Heaney AK (2026). Emergence of Human Pathogenic Fungi in a Changing Climate. *Nature Reviews Microbiology*. https://doi.org/10.1038/s41579-026-01345-4
 
@@ -384,7 +395,7 @@ Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balme
 
 Radosevich MT, Dobson S, Weaver AK, Lampman PTA, Kollath DR, Couper L, Campbell G, Taylor JW, Remais JV, Kobziar L, Markwiese J, **Head, JR**. (2024). Detection of airborne Coccidioides spores using lightweight portable air samplers affixed to uncrewed aircraft systems in California's Central Valley. *Environmental Science & Technology Letters* 12 (5): 580–586. https://doi.org/10.1021/acs.estlett.4c01089
 
-Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023. *The Journal of Infectious Diseases* 232(6):e1048-e1059. https://doi.org/10.1093/infdis/jiaf472
+Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023. *The Journal of Infectious Diseases* 232(6):e1048-e1059 https://doi.org/10.1093/infdis/jiaf472
 
 Brooks RA, Yan K, **Head JR**. (2025). Assessment of prior infection with histoplasmosis using skin test and serological surveys: a global systematic review. *Open Forum Infectious Diseases* 12(8): ofaf437. https://doi.org/10.1093/ofid/ofaf437
 
