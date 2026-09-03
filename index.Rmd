@@ -250,15 +250,19 @@ BS Animal Science, Iowa University
 
 **Chris Bull (Graduate Research Assistant)**:
 
+<img src="PeoplePhotos//Bull.png" style="float: left; width: 20%; margin-right: 20px;" alt="Jamie Cooksey">
+
 MS Computational Epidemiology and Systems Modeling, University of Michigan (ongoing)
+
+BS Economics and Mathematical Methods in the Social Sciences, Northwestern University
 
 *Email*: cwbull@umich.edu
 
-*Research interests*:
+*Research interests*: Chris is interested in applying quantitative approaches to understand how interactions between humans and their built and natural environments modulate infectious disease dynamics. He is particularly interested in understanding how new infectious disease risks may emerge under climate change, both as a direct result of sustained planetary warming and as a product of climate-induced patterns of human mobility and land use.
 
-*Current projects:*
+*Current projects:* Chris is characterizing climate and health relationships among older adults using national Medicare claims data. He leads work to understand associations between temperature volatility and mortality and supports work on extreme precipitation, flooding and respiratory infection.
 
-*Other interests:*
+*Other interests:* Playing and watching soccer, playing guitar, watching movies, and hiking.
 
 ***
 
@@ -384,7 +388,7 @@ Camponuri SK, Heaney AK, Sondermeyer Cooksey G, Vugia DJ, Jain S, Swain D, Balme
 
 Radosevich MT, Dobson S, Weaver AK, Lampman PTA, Kollath DR, Couper L, Campbell G, Taylor JW, Remais JV, Kobziar L, Markwiese J, **Head, JR**. (2024). Detection of airborne Coccidioides spores using lightweight portable air samplers affixed to uncrewed aircraft systems in California's Central Valley. *Environmental Science & Technology Letters* 12 (5): 580–586. https://doi.org/10.1021/acs.estlett.4c01089
 
-Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023. *The Journal of Infectious Diseases* 232(6):e1048-e1059. https://doi.org/10.1093/infdis/jiaf472
+Bartels JGE,Camponuri SK, Snow TT, Bustamante BLM, Kane NJ, Reynolds RM, Lee A, Hoffman MA, White TC, Remais JV, **Head JR**. (2025). Updating the epidemiology of blastomycosis and histoplasmosis in the United States, using national electronic health record data, 2013–2023. *The Journal of Infectious Diseases* 232(6):e1048-e1059 https://doi.org/10.1093/infdis/jiaf472
 
 Brooks RA, Yan K, **Head JR**. (2025). Assessment of prior infection with histoplasmosis using skin test and serological surveys: a global systematic review. *Open Forum Infectious Diseases* 12(8): ofaf437. https://doi.org/10.1093/ofid/ofaf437
 
