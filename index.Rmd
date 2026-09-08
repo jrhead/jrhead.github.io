@@ -124,7 +124,7 @@ M-LEEaD 2026-27 Center Scientist
 
 Ph.D. Epidemiology, McGill University
 
-MSc Environmental Health, McGill University
+MSc Epidemiology, McGill University
 
 B.A Environmental Science, McGill University
 
@@ -180,7 +180,7 @@ BA Environmental Studies & Humanitarian Studies, Fordham University
 
 <img src="PeoplePhotos//Kruger.jpg" style="float: left; width: 20%; margin-right: 20px;" alt="Sophia Kruger">
 
-MPH Epidemiology, University of Michigan
+MPH Global Health Epidemiology, University of Michigan
 
 BS Biology of Global Health, University of St. Thomas
 
