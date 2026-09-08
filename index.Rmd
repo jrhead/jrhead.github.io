@@ -617,16 +617,8 @@ To apply, please email the following to jrhead@umich.edu:
 - Contact information for two to three references
 
 
-
-
 </div>
 
-<br>
-<br>
-
-```{r, echo=FALSE, out.width="30%", fig.cap="Two of my favorite things: dogs and redwoods", fig.align = 'center'}
-knitr::include_graphics("D8H_6063.jpg")
-```
 
 <br>
 <br>
