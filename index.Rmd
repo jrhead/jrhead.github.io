@@ -304,17 +304,19 @@ BA Economics, New York University
 
 **Samantha McDonough (Graduate Research Assistant)**:
 
+<img src="PeoplePhotos//Mcdonough.jpeg" style="float: left; width: 20%; margin-right: 20px;" alt="Samantha McDonough">
+
 MPH Epidemiology, University of Michigan (ongoing)
 
 BS Microbial Biology, University of California Berkeley
 
-*Email*:
+*Email*: samamcd@umich.edu
 
-*Research interests*:
+*Research interests*: Infectious disease, environmental epidemiology
 
-*Current projects:*
+*Current projects:* Identifying the presence of Blastomyces in soil and the prevalence of Histoplasma from bat samples. 
 
-*Other interests:*
+*Other interests:* Sam enjoys playing tennis and ultimate frisbee. She also loves to watercolor paint and spend time with her five siblings!
 
 ***
 
@@ -324,7 +326,7 @@ BS Microbial Biology, University of California Berkeley
 
 MPH Epidemiology, University of Michigan (ongoing)
 
-BS Nueroscience, University of Michigan
+BS Neuroscience, University of Michigan
 
 *Email*: vcardiel@umich.edu
 
