@@ -4,6 +4,7 @@ title:    |
     |    (CSI - Michigan)
 output:
   html_document:
+    embed-resources: true
     theme: yeti
     highlight: tango
     includes:
@@ -381,9 +382,21 @@ Kruger S, Ruberto I, Williamson T, Remais JV, Heaney AK, **Head JR**, (2026). Re
 
 **Head, JR**, Camponuri SK, Weaver AK, Montoya L, Lee E, Radosevich M, Jones I, Wagner R, Bhattachan A, Campbell G, Keeney N, Collender PA, Heaney AK, Couper L, Colvin KA, Larios L, Bean WT, Taylor JW, Remais JV. (2026). Small mammals and their burrows shape the distribution of Coccidioides in soils: evidence from a long-term ecological experiment in the Carrizo Plain National Monument, California, USA. *Ecology* 
 
-Couper LI, Gonzalez DJX, Camponuri SK, Weaver AK, Sondermeyer Cooksey G, Vugia D, Jain S, Taylor J, Balmes J, Eisen EA, Remais JV, **Head, JR**, (2026). Oil and gas well development and coccidioidomycosis risk in California: A case-crossover study. *Lancet Planetary Health* 
-
 Hermann JN, Kruger SE, Wodniak N, Holland J, Janosick V, Sanchez A, Zuniga-Moya JC, Brucker D, Torres B, Melo KM, Oliveros E, Kuran R, D’Assumpcao C, Johnson RH, Van Pelt RS, Bhattachan B, Wagner AL, **Head JR** (2026). Intent to Accept a Valley Fever Vaccine for Humans and Dogs and Factors Influencing Intended Uptake: A Cross-Sectional Survey in Two Endemic Regions *Journal of Fungi* 12(6), 420. https://doi.org/10.3390/jof12060420
+
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 5px; text-align: center;}
+</style>
+<div class = "blue">
+
+![](PublicationPDFs/Couper_Oil_2026.pdf){width=33% height=300}
+![](PublicationPDFs/Head_PathFungiClimate_2026.pdf){width=33% height=300}
+![](PublicationPDFs/Head_Prisons_2026.pdf){width=33% height=300}
+![](PublicationPDFs/Kruger_MMWR_2026.pdf){width=33% height=300}
+![](PublicationPDFs/Head_Burrows_Preprint_2026.pdf){width=33% height=300}
+![](PublicationPDFs/Hermann_Vaccine_2026.pdf){width=33% height=300}
+
+</div>
 
 ***
 
@@ -519,7 +532,14 @@ knitr::include_graphics("UMlogo.png")
 ***
 **Print**
 
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px; text-align: left;}
+</style>
+<div class = "blue">
+
 Our field and climate modeling work was highlighted in **Science News** [here](https://www.science.org/content/article/climate-change-may-be-driving-spread-deadly-fungus-u-s-southwest) and in **The Washington Post** [here](https://www.washingtonpost.com/climate-environment/interactive/2023/valley-fever-spread-climate-change-coccidioides-fungus/). These articles feature ongoing soil sampling to understand the fungus's association with rodent burrows, novel air sampling using UAS, and published work on the association between drought, precipitation, and Valley fever.
+
+![](PublicationPDFs/Print_DustDevil_2025.pdf){width=30% height=300}
 
 <br>
 
@@ -552,7 +572,13 @@ Our paper, "[School closures reduced social mixing of children during COVID-19 w
 
 <br>
 
+</div>
+
 **Podcast**
+<style>
+div.yellow { background-color:#fffee0; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "yellow">
 
 Our field and climate modeling work was highlighted in a *Science News* podcast and can be listened to [here](https://www.science.org/content/podcast/rising-infections-dusty-devil-and-nailing-down-when-our-ancestors-became-meat-eaters)
 
@@ -560,7 +586,13 @@ Jennifer Head is interviewed by *JAMA Network Open* about recent paper, ["COVID-
 
 Jennifer Head is interviewed about Valley fever as part of SF Chronicle's Fifth & Mission Podcast. Listen [here](https://www.sfchronicle.com/podcasts/article/valley-fever-climate-change-18297408.php)
 
+</div>
+
 **Radio**
+<style>
+div.purple { background-color:#EBE8FC; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "purple">
 
 Dr. Head discusses what Valley fever is, and how the climate may be behind its rise in California in several radio shows, including:
 
@@ -570,7 +602,7 @@ Dr. Head discusses what Valley fever is, and how the climate may be behind its r
 
 - KCBS Bay Area Podcast, Series of wet and dry weather is causing a rise in cases of Valley Fever, January 31, 2023. [(Listen here)](https://www.audacy.com/kcbsradio/podcasts/kcbs-on-demand-20757/series-of-wet-and-dry-weather-is-causing-a-rise-in-cases-of-valley-fever-1552534668)
 
-
+</div>
 <br>
 <br>
 
@@ -594,7 +626,7 @@ knitr::include_graphics("UMlogo.png")
 ***
 
 <style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px; text-align: left}
 </style>
 <div class = "blue">
 
