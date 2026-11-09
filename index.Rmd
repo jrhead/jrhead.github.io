@@ -303,29 +303,11 @@ BA Economics, New York University
 
 ***
 
-**Samantha McDonough (Graduate Research Assistant)**:
-
-<img src="PeoplePhotos//Mcdonough.jpeg" style="float: left; width: 20%; margin-right: 20px;" alt="Samantha McDonough">
-
-MPH Epidemiology, University of Michigan (ongoing)
-
-BS Microbial Biology, University of California Berkeley
-
-*Email*: samamcd@umich.edu
-
-*Research interests*: Infectious disease, environmental epidemiology
-
-*Current projects:* Identifying the presence of Blastomyces in soil and the prevalence of Histoplasma from bat samples. 
-
-*Other interests:* Sam enjoys playing tennis and ultimate frisbee. She also loves to watercolor paint and spend time with her five siblings!
-
-***
-
 **Vianey Cardiel (Graduate Research Assistant)**:
 
 <img src="PeoplePhotos//Cardiel.jpg" style="float: left; width: 20%; margin-right: 20px;" alt="Vianey Cardiel">
 
-MPH Epidemiology, University of Michigan (ongoing)
+MPH Occ. & Env. Epidemiology, University of Michigan (ongoing)
 
 BS Neuroscience, University of Michigan
 
@@ -336,6 +318,58 @@ BS Neuroscience, University of Michigan
 *Current projects:* Laboratory analysis of soil samples for *Blastomyces*  
 
 *Other interests:* Vianey enjoys hiking, drawing, cooking, and finding new shows to watch. She volunteers at the Huron Valley Animal Society in her spare time and has isopods and fish as pets!
+
+***
+
+**Maya Hoffman (Graduate Research Assistant)**:
+
+<img src="PeoplePhotos//Hoffman.jpeg" style="float: left; width: 20%; margin-right: 20px;" alt="Maya Hoffman">
+
+MPH Occ. & Env. Epidemiology, University of Michigan (ongoing)
+
+BS Public Health Science, University of Maryland
+
+*Email*: hoffmaya@umich.edu
+
+*Research interests*: Maya is interested in One Health, infectious diseases, zoonoses, and exposure science. She is motivated by questions about how environmental exposures and human–animal–environment interactions shape population health.
+
+*Current projects:* Maya's research efforts involve tracking highly-pathogenic avian influenza (HPAI) H5N1 transmission among peridomestic mammals. She also supports laboratory-based projects investigating Histoplasma and Blastomyces distribution in environmental and animal samples.
+
+*Other interests:* Maya is originally from the Philadelphia area. Her hobbies include hiking and biking, listening to/playing music and attending live music and theater!
+
+***
+
+**Marguerite George (Graduate Research Assistant)**:
+
+<img src="PeoplePhotos//George.jpeg" style="float: left; width: 20%; margin-right: 20px;" alt="Marguerite George">
+
+MPH Global Health Epidemiology, University of Michigan (ongoing)
+
+BS Biology, Salve Regina University
+
+*Email*: megeorge@umich.edu
+
+*Research interests*: Marguerite is interested in public health, with a particular interest in infectious diseases and their impact on populations and communities. She is interested in understanding how infectious diseases spread, the factors that contribute to disease transmission, and how socioeconomic conditions, healthcare access, and public health policies influence health outcomes. She hopes to explore how interdisciplinary research can inform public health policy, strengthen global disease preparedness, and address health disparities among vulnerable populations.
+
+*Current projects:* Marguerite's research efforts are focused on understanding the environmental distribution of fungal pathogens, particularly Histoplasma and Blastomyces, in the Great Lakes region. She is also supporting laboratory-based projects investigating the presence and distribution of these pathogens in bat tissue and environmental soil samples.
+
+*Other interests:* Marguerite is an avid outdoors person and enjoys long walks, hiking, rollerblading, biking, and skiing. She also loves to read psychological thrillers, listen to music, and cook!
+
+***
+
+**Riley McLoy (Undergraduate Research Assistant)**:
+
+<img src="PeoplePhotos//McLoy.png" style="float: left; width: 20%; margin-right: 20px;" alt="Riley McLoy">
+
+BS Public Health Sciences, University of Michigan (ongoing)
+
+*Email*: rmcloy@umich.edu
+
+*Research interests*: Riley is interested in infectious diseases, and human-animal disease interactions.
+
+*Current projects:* Riley's research efforts involve working on establishing the role of peridomestic mammals in maintaining H5N1 among poultry and promoting biosecurity at the wildlife-poultry interface.
+
+*Other interests:* Riley is originally from Massachusetts. In her free time she like to read, run, cook, and spend time with her friends. She also loves the outdoors, and likes to travel, hike, and ski!
 
 ***
 
